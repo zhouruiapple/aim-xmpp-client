@@ -22,7 +22,6 @@
   },
   "devDependencies": {
     "node-uuid": "^1.4.7",
-    "standard": "^7.1.2",
     "vantage": "^1.7.0"
   }
 }
