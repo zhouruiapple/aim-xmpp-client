@@ -3,7 +3,6 @@
 XMPP client for JavaScript from node-xmpp-client.
 
 [![build status](https://travis-ci.org/zhouruiapple/aim-xmpp-client.svg?style=flat-square)](https://travis-ci.org/zhouruiapple/aim-xmpp-client/branches)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
 
 ## Manual

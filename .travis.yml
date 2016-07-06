@@ -12,7 +12,3 @@ cache:
 branches:
     only:
         - master
-
-script:
-    - "npm install standard -g"
-    - "./node_modules/.bin/standard"
