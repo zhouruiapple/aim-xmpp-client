@@ -1,0 +1,27 @@
+{
+  "name": "aim-xmpp-client",
+  "version": "0.1.0",
+  "description": "The wrapper of node-xmpp-client with additional event handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.org"
+  },
+  "keywords": [
+    "Wrapper",
+    "of",
+    "node-xmpp-client"
+  ],
+  "author": "zhouruiapple",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-xmpp-client": "^3.0.2"
+  },
+  "devDependencies": {
+    "node-uuid": "^1.4.7",
+    "vantage": "^1.7.0"
+  }
+}
