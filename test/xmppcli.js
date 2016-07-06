@@ -1,3 +1,7 @@
+/**
+ * Created by Administrator on 6/22/2016.
+ */
+
 var Vantage = require('vantage');
 var UUID = require('node-uuid');
 
@@ -59,4 +63,7 @@ associateCommand(vantage, iqSetBlockingCommand);
 associateCommand(vantage, iqGetBlockingCommand);
 associateCommand(vantage, iqSetUnblockingCommand);
 
-console.log('Finished Testing');
+vantage
+    .delimiter(delimiter)
+    .listen(port)
+    .show();
